@@ -1,0 +1,14 @@
+{
+  "translation": {
+    "title": "Translate App",
+    "enterText": "Enter text...",
+    "english": "English",
+    "german": "German",
+    "translateButton": "Translate",
+    "translatedText": "Translated Text:",
+    "translationFailed": "Translation failed",
+    "translation": "Translation",
+    "translatedContainer": "Translated Container"
+    // Add more translations as needed
+  }
+}
